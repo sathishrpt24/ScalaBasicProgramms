@@ -1,5 +1,3 @@
-
-
 object HigherOrderFunctions {
   
   def main(args:Array[String]){
@@ -15,7 +13,6 @@ object HigherOrderFunctions {
   }
   
   def secondFunction(c:Int):Int = {
-    
-    c
+        c
   }
-}
+}    
