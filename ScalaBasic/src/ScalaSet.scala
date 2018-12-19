@@ -7,7 +7,7 @@ object ScalaSet {
       
     var mySet = Set(1,2,3,4,54,6,7,8);
     
-    var mySet1 = Set("Sathish","Selvarasu","Suresh","Ramesh",2);
+    var mySet1 = Set("Sathish","Selvarasu","Suresh","Ramesh",2,"Sathish");
     println(mySet);
     println(mySet1);
     println(mySet.contains(2));
